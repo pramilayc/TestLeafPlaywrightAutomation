@@ -1,0 +1,19 @@
+//userName
+let userName = "Pramila"
+console.log(userName, typeof userName)
+
+// organization
+let organization = "ABC"
+console.log(organization, typeof organization)
+
+//contactNumber
+let contactNumber = 1234567890
+console.log(contactNumber, typeof contactNumber)
+
+//knowsAutomation
+let knowsAutomation = true
+console.log(knowsAutomation)
+
+//usesPlaywright
+let usesPlaywright
+console.log(usesPlaywright, typeof usesPlaywright)
